@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ocean Breeze Resort - Luxury Beachfront Getaway</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- HEADER & NAVIGATION -->
+    <header>
+        <nav class="navbar">
+            <div class="logo">Ocean Breeze Resort</div>
+            <ul class="nav-links">
+                <li><a href="index.html" class="active">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="accommodation.html">Accommodation</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- HERO SECTION -->
+    <section class="hero">
+        <div class="hero-content">
+            <h1>Welcome to Ocean Breeze Resort</h1>
+            <p>Experience Luxury, Tranquility and Breathtaking Ocean Views in Durban</p>
+            <a href="accommodation.html" class="btn">Book Your Stay Now</a>
+        </div>
+    </section>
+
+    <!-- WELCOME INTRO -->
+    <section class="intro">
+        <h2>Your Perfect Beachfront Escape</h2>
+        <p>Ocean Breeze Resort is Durban's premier 5-star beachfront destination, established in 2010. Overlooking the warm Indian Ocean on Marine Parade, we offer world-class luxury with authentic South African hospitality.</p>
+    </section>
+
+    <!-- FEATURES -->
+    <section class="features">
+        <div class="feature-box">
+            <h3>🌊 Ocean View Suite</h3>
+            <p><strong>R2,500 / night</strong><br>King bed, private balcony, sea view, free Wi-Fi, breakfast included.</p>
+            <a href="accommodation.html">View Details</a>
+        </div>
+        <div class="feature-box">
+            <h3>👨‍👩‍👧‍👦 Family Deluxe</h3>
+            <p><strong>R3,800 / night</strong><br>2 bedrooms, kitchenette, kids play area, pool view, family-friendly.</p>
+            <a href="accommodation.html">View Details</a>
+        </div>
+        <div class="feature-box">
+            <h3>👑 Presidential Villa</h3>
+            <p><strong>R8,500 / night</strong><br>Private pool, butler service, 24hr room service, exclusive beach access.</p>
+            <a href="accommodation.html">View Details</a>
+        </div>
+    </section>
+
+    <!-- SERVICES PREVIEW -->
+    <section class="services-preview">
+        <h2>Why Guests Love Us</h2>
+        <ul>
+            <li>♾️ Infinity Pool & Luxury Spa & Wellness</li>
+            <li>🍽️ Fine Dining Restaurant - Seafood & Local Cuisine</li>
+            <li>💼 Conference & Events Hall (50-300 guests)</li>
+            <li>🚌 Free Airport Shuttle & Secure Parking</li>
+            <li>🏄 Water Sports - Surfing, Snorkeling, Boat Tours</li>
+        </ul>
+    </section>
+
+    <!-- FOOTER -->
+    <footer>
+        <p>&copy; 2025 Ocean Breeze Resort | WEDE5020 Website Proposal Part 3</p>
+        <p>123 Marine Parade, Durban, 4001 | Tel: +27 31 123 4567 | Email: bookings@oceanbreezeresort.co.za</p>
+        <p><a href="confirmation.html">Booking Confirmation</a></p>
+    </footer>
+
+</body>
+</html>
